@@ -13,7 +13,7 @@
 - **Impact**: While no new feature requests or pull requests are being outright rejected, there may be significant delays in reviews. We encourage the community to help by reviewing PRs or assisting other users in the meantime.
 - **What You Can Do**: If you're interested in contributing, reviewing open PRs by following our [Review Guidelines](https://github.com/louislam/uptime-kuma/blob/master/.github/REVIEW_GUIDELINES.md) or offering support to other users is greatly appreciated. All feature requests and PRs will be revisited once the suspension period is lifted.
 
-We appreciate your patience and understanding as we continue to improve Uptime Kuma.
+We appreciate your patience and understanding as we continue to improve Direct Alerte.
 
 ### 🚫 Please Avoid Unnecessary Pinging of Maintainers
 

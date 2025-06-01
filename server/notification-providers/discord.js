@@ -12,7 +12,7 @@ class Discord extends NotificationProvider {
         const okMsg = "Sent Successfully.";
 
         try {
-            const discordDisplayName = notification.discordUsername || "Uptime Kuma";
+            const discordDisplayName = notification.discordUsername || "Direct Alerte";
             const webhookUrl = new URL(notification.discordWebhookUrl);
             if (notification.discordChannelType === "postToThread") {
                 webhookUrl.searchParams.append("thread_id", notification.threadId);

@@ -16,7 +16,7 @@ class LunaSea extends NotificationProvider {
             const target = this.getTarget(notification);
             if (heartbeatJSON == null) {
                 let testdata = {
-                    "title": "Uptime Kuma Alert",
+                    "title": "Direct Alerte Alert",
                     "body": msg,
                 };
                 await axios.post(`${url}/custom/${target}`, testdata);

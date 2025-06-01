@@ -13,7 +13,7 @@ class SpugPush extends NotificationProvider {
         let okMsg = "Sent Successfully.";
         try {
             let formData = {
-                title: "Uptime Kuma Message",
+                title: "Direct Alerte Message",
                 content: msg
             };
             if (heartbeatJSON) {
